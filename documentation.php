@@ -35,6 +35,11 @@
 </header>    
 <div class="row section">
 	<div class="sixteen columns">
+	<h2>Before you start</h2>
+		<p>So before you start using Mooi, the first thing you need to appreciate is that Mooi uses SASS, so you are going to need a preprocessor for compiling your SASS into CSS, now personally I use <a href="http://alphapixels.com/prepros/">PrePros</a>, works on Windows and OS X, but it's down to you, however you will need one. Once you have got that sorted out, then you can start to have some fun with this framework.</p>
+	
+	</div>
+	<div class="sixteen columns">
 <h2>How to Use Mooi</h2>
         <p>To use Mooi there are a few things you need to make sure you put a few things in to any web page that you create.</p>
         
